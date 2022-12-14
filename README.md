@@ -11,6 +11,9 @@
 ### 时间线
 ![时间线](./screenshots/timeline.jpg)
 
+### 追剧日历
+![热门](./screenshots/update.jpg)
+
 ### 热门
 ![热门](./screenshots/top.jpg)
 
